@@ -111,22 +111,36 @@
 
 <h3> 📂 Project Structure </h3>
 
-> - Code
->> 01_project_eda.ipynb
->> - cirrhosis 관련 데이터 탐색과 간단한 heatmap 코드가 포함되어 있습니다.
->>
->> 02_Cirrhoisi_detail.ipynb
->> - 본격적으로 각 변수의 분포를 확인하고 ANOVA, Tukey's HSD를 진행하였습니다.
->>
->> 03_cancer.ipynb
->> - cancer 데이터를 활용하여 plotly animation figure을 생성하였습니다.
->>
->> 04_hepatitis.ipynb
->> - hepatitis B에 대해 변수의 분포와 관계에 대해 확인하고 logistic regression을 적합하였습니다.
->>
->> 05_codebook.ipynb
->> - 코드북을 쉽게 만들기 위해 사용했습니다.
->>
->> 06_hepatitis_c.ipynb
->> - 기초통계량 표를 만들기 위해 활용하였습니다.
+> - TA
+>> - Code
+>>> - 각종 EDA와 전처리 그리고 Modeling을 적용한 코드가 담겨있습니다.
+>>>
+>> - Data
+>>> - 데이콘에서 제공해준 데이터 및 전처리 이후 활용했던 데이터가 담겨 있습니다.
+>>>
+>> - Model
+>>> - AutoML을 활용하여 적용한 모델 중 가장 성능이 좋은 모델에 대해 결과물이 상세히 담겨 있습니다.
 
+<h3> ⚙️ Architecture </h3>
+<table>
+  <tr>
+    <td> <div align=center> <b> 분류 </b> </div> </td>
+    <td> <div align=center> <b> 내용 </b> </div> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> 모델 </b> </div> </td>
+    <td> <tt>RandomForest</tt>, <tt>XGBoost</tt>, <tt>LightGBM</tt>, <tt>CatBoost</tt>, <tt>AutoML</tt> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> 데이터 </b> </div> </td>
+    <td> <tt>Data</tt> 데이콘에서 제공해준 데이터: 폴더 안에서 확인하실 수 있습니다. </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> 모델 평가 </b> </div> </td>
+    <td> RMSE를 산출하여 비교 후 가장 낮은 값을 가진 모델을 선택 </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> 모델 적용 방법 </b> </div> </td>
+    <td> 각 모델을 활용하여 최종 public score을 계산하고 rmse값이 낮은 모델을 선정하여 Ensemble 또는 stacking하는 방법 적용 </td>
+  </tr>
+</table>
