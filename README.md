@@ -60,7 +60,7 @@
   <tr>
     <td> <div align=center> <b> 서상혁 </b> </div> </td>
     <td> <b>EDA </b>(데이터 칼럼 간 관계 확인, 빅데이터 마트 데이터 확인 및 전처리)</br> 
-         <b>파생변수 </b>(대구 빅데이터 마트 데이터 Count) </br> 
+         <b>파생변수 </b>(대구 빅데이터 마트 데이터 Count, OneHotEncoding, Split 등을 활용한 범주형 변수 처리, Season과 같은 특성 변수 생성) </br> 
          <b>진행상황 정리 </b>(진행 방향 문서화, 코드 병합 및 정리)</br>
          <b>모델링 </b>(AutoML 모델링, 중상자수 예측 모델 구현) </td>
   </tr>
