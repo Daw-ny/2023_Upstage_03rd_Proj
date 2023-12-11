@@ -1,0 +1,77 @@
+{
+    "new_features": [
+        {
+            "feature1": "holiday",
+            "feature2": "weekday",
+            "operation": "ratio",
+            "score": 1.0023336998
+        },
+        {
+            "feature1": "\uad70_\uc911\uad6c",
+            "feature2": "holiday",
+            "operation": "diff",
+            "score": 1.0029855443
+        },
+        {
+            "feature1": "weekday",
+            "feature2": "holiday",
+            "operation": "diff",
+            "score": 1.0029884415
+        },
+        {
+            "feature1": "\ubd88\ubc95\uc8fc\uc815\ucc28",
+            "feature2": "weekday",
+            "operation": "diff",
+            "score": 1.0030061036
+        },
+        {
+            "feature1": "weekday",
+            "feature2": "\uad70_\ub3d9\uad6c",
+            "operation": "sum",
+            "score": 1.0030347474
+        },
+        {
+            "feature1": "weekday",
+            "feature2": "\uad70_\uc218\uc131\uad6c",
+            "operation": "sum",
+            "score": 1.0032442745
+        },
+        {
+            "feature1": "holiday",
+            "feature2": "weekday",
+            "operation": "multiply",
+            "score": 1.0035979748
+        },
+        {
+            "feature1": "weekday",
+            "feature2": "holiday",
+            "operation": "ratio",
+            "score": 1.0035979748
+        },
+        {
+            "feature1": "\uad70_\ub0a8\uad6c",
+            "feature2": "weekday",
+            "operation": "diff",
+            "score": 1.0037158313
+        },
+        {
+            "feature1": "\uad70_\ub2ec\uc131\uad70",
+            "feature2": "holiday",
+            "operation": "diff",
+            "score": 1.0039587238
+        }
+    ],
+    "new_columns": [
+        "holiday_ratio_weekday",
+        "\uad70_\uc911\uad6c_diff_holiday",
+        "weekday_diff_holiday",
+        "\ubd88\ubc95\uc8fc\uc815\ucc28_diff_weekday",
+        "weekday_sum_\uad70_\ub3d9\uad6c",
+        "weekday_sum_\uad70_\uc218\uc131\uad6c",
+        "holiday_multiply_weekday",
+        "weekday_ratio_holiday",
+        "\uad70_\ub0a8\uad6c_diff_weekday",
+        "\uad70_\ub2ec\uc131\uad70_diff_holiday"
+    ],
+    "ml_task": "regression"
+}

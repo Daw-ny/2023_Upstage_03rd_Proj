@@ -1,0 +1,100 @@
+feature,mean_importance
+65_Xgboost_prediction,-0.0008382580047798349
+51_CatBoost_prediction,-0.0008148772872889287
+59_RandomForest_prediction,-0.0005775840980595248
+10_Xgboost_categorical_mix_GoldenFeatures_prediction,-0.000537274329066495
+45_LightGBM_GoldenFeatures_SelectedFeatures_prediction,-0.0004850797806795759
+구,-0.0004831679420219448
+군_달성군,-0.0003763446989600183
+37_RandomForest_prediction,-0.0003759178442722888
+weekday,-0.00031224704871610773
+70_CatBoost_prediction,-0.0001483819890937932
+season_봄,-0.00013995198814120702
+57_RandomForest_prediction,-6.0501370936050236e-05
+58_RandomForest_prediction,-4.8952011334857384e-05
+도로형태_미분류 - 미분류,0.0
+노면상태_건조,0.0
+노면상태_기타,0.0
+도로형태_교차로 - 교차로안,0.0
+노면상태_서리/결빙,0.0
+도로형태_주차장 - 주차장,0.0
+55_RandomForest_prediction,0.0
+14_LightGBM_prediction,0.0
+도로형태_단일로 - 지하차도(도로)내,0.0
+도로형태_교차로 - 교차로횡단보도내,0.0
+요일_금요일,0.0
+요일_목요일,0.0
+요일_수요일,0.0
+요일_월요일,0.0
+요일_일요일,0.0
+요일_토요일,0.0
+요일_화요일,0.0
+기상상태_기타,0.0
+기상상태_눈,0.0
+기상상태_맑음,0.0
+기상상태_비,0.0
+기상상태_안개,0.0
+도로형태_단일로 - 터널,0.0
+도로형태_단일로 - 교량,0.0
+도로형태_교차로 - 교차로부근,0.0
+season_가을,0.0
+군_동구,0.0
+군_북구,0.0
+군_서구,0.0
+군_중구,0.0
+holiday,0.0
+기상상태_흐림,0.0
+season_겨울,0.0
+설치개수,0.0
+도로형태_단일로 - 고가도로위,0.0
+군_달서구,0.0
+사고유형_차량단독,0.0
+군_남구,0.0
+평지도로,0.0
+차량전용,0.0
+사고유형_차대차,0.0
+사고유형_차대사람,0.0
+노면상태_침수,0.0
+불법주정차,0.0
+보호구역,0.0
+노면상태_적설,0.0
+도로형태_기타 - 기타,0.0
+주차장개수,2.991820718700744e-06
+35_RandomForest_prediction,7.639614698917719e-06
+31_CatBoost_prediction,4.4560247651315166e-05
+사고발생횟수,9.025325126517103e-05
+season_여름,0.00012232444930180276
+49_LightGBM_prediction,0.0001587848498571187
+10_Xgboost_categorical_mix_prediction,0.00019157605193784733
+Cosine_Time,0.00019325336230411328
+47_Xgboost_GoldenFeatures_prediction,0.00021704169418332864
+22_LightGBM_prediction,0.0002588116979767907
+74_CatBoost_prediction,0.00027333064779742065
+군_수성구,0.00028122466375111175
+어린이보호구역개수,0.0003148061894208798
+68_LightGBM_GoldenFeatures_prediction,0.0003284048742535184
+41_Xgboost_prediction,0.00033904035662202237
+노면상태_젖음/습기,0.0004057362790539365
+도로형태_단일로 - 기타,0.0005137684321761648
+67_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0005821198533282335
+60_Xgboost_prediction,0.0006390565024536832
+50_CatBoost_prediction,0.0006980656318593459
+48_LightGBM_GoldenFeatures_prediction,0.0007147108004920355
+25_CatBoost_prediction,0.000768232147629555
+시군구,0.0008937728885659135
+56_RandomForest_prediction,0.0009878267300672317
+14_LightGBM_GoldenFeatures_prediction,0.0011422060055338522
+36_RandomForest_prediction,0.0012630319794407318
+23_CatBoost_prediction,0.0012919970517455194
+40_RandomForest_prediction,0.0014315201326125626
+14_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0016059167129460982
+72_CatBoost_prediction,0.0017687772577087203
+52_CatBoost_prediction,0.0021573634038334565
+75_RandomForest_prediction,0.0022293329450280507
+Ensemble_prediction,0.002486158128539917
+73_CatBoost_prediction,0.0027854277315610965
+61_Xgboost_prediction,0.002921500783131559
+64_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0034495697720687167
+66_Xgboost_prediction,0.003962317976100804
+44_Xgboost_GoldenFeatures_prediction,0.004002360819343065
+46_Xgboost_GoldenFeatures_prediction,0.005103846500322984

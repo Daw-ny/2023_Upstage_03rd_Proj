@@ -1,0 +1,100 @@
+feature,mean_importance
+36_RandomForest_prediction,-0.0012868521392882747
+49_LightGBM_prediction,-0.0010039561915124117
+구,-0.0009104482797546165
+56_RandomForest_prediction,-0.0005690888129449512
+75_RandomForest_prediction,-0.0005177999701353464
+73_CatBoost_prediction,-0.0004817482702820897
+35_RandomForest_prediction,-0.0003691795701552536
+시군구,-0.000331068468952056
+군_달서구,-0.00029357492846315836
+48_LightGBM_GoldenFeatures_prediction,-0.00019826055646294806
+61_Xgboost_prediction,-7.425038163462183e-05
+season_봄,-5.480618481588095e-05
+31_CatBoost_prediction,-3.506350455304563e-05
+41_Xgboost_prediction,-1.0130760310111952e-05
+주차장개수,0.0
+기상상태_안개,0.0
+기상상태_비,0.0
+기상상태_맑음,0.0
+기상상태_눈,0.0
+기상상태_기타,0.0
+요일_화요일,0.0
+요일_일요일,0.0
+요일_월요일,0.0
+요일_수요일,0.0
+요일_금요일,0.0
+보호구역,0.0
+58_RandomForest_prediction,0.0
+불법주정차,0.0
+차량전용,0.0
+요일_토요일,0.0
+기상상태_흐림,0.0
+도로형태_기타 - 기타,0.0
+도로형태_교차로 - 교차로안,0.0
+season_겨울,0.0
+season_가을,0.0
+사고유형_차대차,0.0
+사고유형_차대사람,0.0
+노면상태_침수,0.0
+노면상태_젖음/습기,0.0
+노면상태_적설,0.0
+노면상태_서리/결빙,0.0
+노면상태_기타,0.0
+노면상태_건조,0.0
+도로형태_주차장 - 주차장,0.0
+도로형태_미분류 - 미분류,0.0
+도로형태_단일로 - 터널,0.0
+도로형태_단일로 - 지하차도(도로)내,0.0
+도로형태_단일로 - 기타,0.0
+도로형태_단일로 - 교량,0.0
+도로형태_단일로 - 고가도로위,0.0
+도로형태_교차로 - 교차로부근,0.0
+어린이보호구역개수,0.0
+season_여름,0.0
+군_남구,0.0
+군_달성군,0.0
+군_동구,0.0
+14_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0
+holiday,0.0
+weekday,0.0
+군_북구,0.0
+Cosine_Time,0.0
+군_중구,0.0
+군_수성구,0.0
+사고유형_차량단독,8.979576461953798e-07
+52_CatBoost_prediction,1.9270066111021222e-05
+요일_목요일,3.975628133452424e-05
+40_RandomForest_prediction,5.018301521300117e-05
+66_Xgboost_prediction,7.380892903849912e-05
+25_CatBoost_prediction,7.42655109609025e-05
+67_LightGBM_GoldenFeatures_SelectedFeatures_prediction,7.490779322050223e-05
+23_CatBoost_prediction,9.894233374230232e-05
+37_RandomForest_prediction,0.0001449285558938751
+사고발생횟수,0.00014541342072016405
+14_LightGBM_prediction,0.00017011606159829108
+59_RandomForest_prediction,0.00017875758936067854
+72_CatBoost_prediction,0.00025743724176838787
+군_서구,0.0002752861549454977
+도로형태_교차로 - 교차로횡단보도내,0.0003950222719595775
+평지도로,0.00044588223208323895
+설치개수,0.00045168653988927334
+57_RandomForest_prediction,0.0005847933200277211
+50_CatBoost_prediction,0.0005995352662353959
+45_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0008130033213977761
+14_LightGBM_GoldenFeatures_prediction,0.000865111008136532
+10_Xgboost_categorical_mix_prediction,0.0009323569262225107
+64_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0009472285472821529
+65_Xgboost_prediction,0.00104473903383977
+51_CatBoost_prediction,0.0012130717200711238
+55_RandomForest_prediction,0.0015232048972171341
+47_Xgboost_GoldenFeatures_prediction,0.0016960850062598177
+60_Xgboost_prediction,0.002304763073173355
+22_LightGBM_prediction,0.0023251232927249178
+44_Xgboost_GoldenFeatures_prediction,0.0024795189183304256
+70_CatBoost_prediction,0.0025091261621094318
+10_Xgboost_categorical_mix_GoldenFeatures_prediction,0.002556415163943182
+46_Xgboost_GoldenFeatures_prediction,0.0026016827942678677
+74_CatBoost_prediction,0.002841063359682705
+68_LightGBM_GoldenFeatures_prediction,0.0036921560814516586
+Ensemble_prediction,0.004830970564370096

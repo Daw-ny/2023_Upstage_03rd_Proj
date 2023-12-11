@@ -1,0 +1,109 @@
+{
+    "columns": [
+        "\uc694\uc77c",
+        "\uae30\uc0c1\uc0c1\ud0dc",
+        "\uc2dc\uad70\uad6c",
+        "\ub3c4\ub85c\ud615\ud0dc",
+        "\ub178\uba74\uc0c1\ud0dc",
+        "\uc0ac\uace0\uc720\ud615",
+        "\ubcf4\ud638\uad6c\uc5ed",
+        "\ubd88\ubc95\uc8fc\uc815\ucc28",
+        "\ucc28\ub7c9\uc804\uc6a9",
+        "\ud3c9\uc9c0\ub3c4\ub85c",
+        "\uc124\uce58\uac1c\uc218",
+        "\uc8fc\ucc28\uc7a5\uac1c\uc218",
+        "\uc5b4\ub9b0\uc774\ubcf4\ud638\uad6c\uc5ed\uac1c\uc218",
+        "\uad6c",
+        "\uad70_\ub0a8\uad6c",
+        "\uad70_\ub2ec\uc11c\uad6c",
+        "\uad70_\ub2ec\uc131\uad70",
+        "\uad70_\ub3d9\uad6c",
+        "\uad70_\ubd81\uad6c",
+        "\uad70_\uc11c\uad6c",
+        "\uad70_\uc218\uc131\uad6c",
+        "\uad70_\uc911\uad6c",
+        "\uc0ac\uace0\ubc1c\uc0dd\ud69f\uc218",
+        "weekday",
+        "holiday",
+        "Cosine_Time",
+        "season"
+    ],
+    "rows": 39609,
+    "cols": 27,
+    "target_is_numeric": true,
+    "columns_info": {
+        "\uc694\uc77c": [
+            "categorical",
+            "few_categories"
+        ],
+        "\uae30\uc0c1\uc0c1\ud0dc": [
+            "categorical",
+            "few_categories"
+        ],
+        "\uc2dc\uad70\uad6c": [
+            "categorical",
+            "many_categories"
+        ],
+        "\ub3c4\ub85c\ud615\ud0dc": [
+            "categorical",
+            "few_categories"
+        ],
+        "\ub178\uba74\uc0c1\ud0dc": [
+            "categorical",
+            "few_categories"
+        ],
+        "\uc0ac\uace0\uc720\ud615": [
+            "categorical",
+            "few_categories"
+        ],
+        "\ubcf4\ud638\uad6c\uc5ed": [
+            "scale"
+        ],
+        "\ubd88\ubc95\uc8fc\uc815\ucc28": [
+            "scale"
+        ],
+        "\ucc28\ub7c9\uc804\uc6a9": [],
+        "\ud3c9\uc9c0\ub3c4\ub85c": [
+            "scale"
+        ],
+        "\uc124\uce58\uac1c\uc218": [
+            "scale"
+        ],
+        "\uc8fc\ucc28\uc7a5\uac1c\uc218": [
+            "scale"
+        ],
+        "\uc5b4\ub9b0\uc774\ubcf4\ud638\uad6c\uc5ed\uac1c\uc218": [
+            "scale"
+        ],
+        "\uad6c": [
+            "categorical",
+            "many_categories"
+        ],
+        "\uad70_\ub0a8\uad6c": [],
+        "\uad70_\ub2ec\uc11c\uad6c": [],
+        "\uad70_\ub2ec\uc131\uad70": [],
+        "\uad70_\ub3d9\uad6c": [],
+        "\uad70_\ubd81\uad6c": [],
+        "\uad70_\uc11c\uad6c": [],
+        "\uad70_\uc218\uc131\uad6c": [],
+        "\uad70_\uc911\uad6c": [],
+        "\uc0ac\uace0\ubc1c\uc0dd\ud69f\uc218": [
+            "scale"
+        ],
+        "weekday": [
+            "scale"
+        ],
+        "holiday": [],
+        "Cosine_Time": [],
+        "season": [
+            "categorical",
+            "few_categories"
+        ]
+    },
+    "target_info": [
+        "scale"
+    ],
+    "n_features": 27,
+    "is_sample_weighted": false,
+    "is_fairness_applied": false
+}

@@ -1,0 +1,110 @@
+feature,mean_importance
+66_Xgboost_prediction,-0.0021249709407996863
+67_LightGBM_GoldenFeatures_SelectedFeatures_prediction,-0.001564001556418737
+51_CatBoost_prediction,-0.0014505139003780476
+61_Xgboost_prediction,-0.0012405486192561099
+35_RandomForest_prediction,-0.0010610925394288096
+10_Xgboost_categorical_mix_prediction,-0.0010492956953564337
+season_겨울,-0.000738712345778203
+72_CatBoost_prediction,-0.0007298883755925579
+14_LightGBM_GoldenFeatures_prediction,-0.0007191355401294563
+70_CatBoost_prediction,-0.0005936738153128785
+47_Xgboost_GoldenFeatures_prediction,-0.0005141480753184657
+57_RandomForest_prediction,-0.0004506874691759366
+58_RandomForest_prediction,-0.0003622198303946833
+55_RandomForest_prediction,-0.0003337786582165769
+군_동구,-0.0002847107508060054
+37_RandomForest_prediction,-0.00027470396713142887
+75_RandomForest_prediction,-0.0002595017323459681
+49_LightGBM_prediction,-0.00020818216080502604
+주차장개수,-0.00018837297382403583
+불법주정차,-0.00018784760079915142
+차량전용,-0.00016514195661971877
+어린이보호구역개수,-0.00010347848569618457
+50_CatBoost_prediction,-0.00010064043673634338
+설치개수,-9.235354738605928e-05
+도로형태_단일로 - 교량,-4.596444454760817e-05
+22_LightGBM_prediction,-3.250074505514178e-05
+14_LightGBM_prediction,-3.057359633720225e-05
+Cosine_Time,-1.0906429757384651e-05
+weekday,0.0
+도로형태_교차로 - 교차로안,0.0
+기상상태_흐림,0.0
+season_봄,0.0
+기상상태_안개,0.0
+기상상태_비,0.0
+군_중구_diff_holiday,0.0
+weekday_diff_holiday,0.0
+기상상태_눈,0.0
+weekday_sum_군_동구,0.0
+weekday_sum_군_수성구,0.0
+holiday_multiply_weekday,0.0
+weekday_ratio_holiday,0.0
+군_달성군_diff_holiday,0.0
+요일_금요일,0.0
+요일_목요일,0.0
+요일_수요일,0.0
+요일_월요일,0.0
+요일_일요일,0.0
+요일_토요일,0.0
+holiday_ratio_weekday,0.0
+도로형태_교차로 - 교차로횡단보도내,0.0
+기상상태_기타,0.0
+군_북구,0.0
+군_중구,0.0
+군_수성구,0.0
+노면상태_침수,0.0
+노면상태_서리/결빙,0.0
+도로형태_기타 - 기타,0.0
+노면상태_기타,0.0
+노면상태_건조,0.0
+사고유형_차대차,0.0
+노면상태_젖음/습기,0.0
+군_달성군,0.0
+도로형태_주차장 - 주차장,0.0
+holiday,0.0
+요일_화요일,0.0
+도로형태_미분류 - 미분류,0.0
+도로형태_단일로 - 터널,0.0
+군_남구,0.0
+도로형태_단일로 - 지하차도(도로)내,0.0
+season_가을,0.0
+군_달서구,0.0
+노면상태_적설,0.0
+도로형태_단일로 - 고가도로위,1.6629838769532945e-05
+평지도로,2.723005579887694e-05
+사고유형_차량단독,4.3477356333587736e-05
+45_LightGBM_GoldenFeatures_SelectedFeatures_prediction,6.313396343855526e-05
+14_LightGBM_GoldenFeatures_SelectedFeatures_prediction,6.875797661800575e-05
+군_서구,8.109210897504493e-05
+군_남구_diff_weekday,8.554931864683813e-05
+사고발생횟수,0.00011104322996051686
+season_여름,0.00012091372180136339
+도로형태_교차로 - 교차로부근,0.00013665059627028243
+도로형태_단일로 - 기타,0.00013760129650617348
+기상상태_맑음,0.00014171471277806268
+46_Xgboost_GoldenFeatures_prediction,0.00014179458643845955
+사고유형_차대사람,0.00016070023700274217
+60_Xgboost_prediction,0.00018216875179848379
+불법주정차_diff_weekday,0.00018947864396661184
+25_CatBoost_prediction,0.00020929941632747974
+보호구역,0.00026635749192462923
+64_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0003141505150236146
+구,0.00039621337840041183
+시군구,0.0005136287000124584
+31_CatBoost_prediction,0.0006320759050306268
+48_LightGBM_GoldenFeatures_prediction,0.0006817713473798115
+56_RandomForest_prediction,0.0007321311469784764
+Ensemble_prediction,0.0007850120093093604
+52_CatBoost_prediction,0.0008592333747976522
+73_CatBoost_prediction,0.0008913890677682224
+68_LightGBM_GoldenFeatures_prediction,0.0009677387504414936
+10_Xgboost_categorical_mix_GoldenFeatures_prediction,0.0012816339602009564
+74_CatBoost_prediction,0.0013054668531661262
+65_Xgboost_prediction,0.001568014211954427
+41_Xgboost_prediction,0.0023206866207030608
+23_CatBoost_prediction,0.00269527661635085
+40_RandomForest_prediction,0.0027172675000188386
+44_Xgboost_GoldenFeatures_prediction,0.0028662419779233116
+36_RandomForest_prediction,0.003263969703584024
+59_RandomForest_prediction,0.0036823437936169823

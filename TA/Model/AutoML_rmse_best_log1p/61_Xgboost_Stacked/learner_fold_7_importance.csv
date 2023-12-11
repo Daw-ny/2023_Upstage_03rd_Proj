@@ -1,0 +1,100 @@
+feature,mean_importance
+73_CatBoost_prediction,-0.0015564610821270364
+22_LightGBM_prediction,-0.0012538848087036759
+45_LightGBM_GoldenFeatures_SelectedFeatures_prediction,-0.0012403629617461665
+14_LightGBM_prediction,-0.001160488730381326
+10_Xgboost_categorical_mix_prediction,-0.0009432601649716155
+37_RandomForest_prediction,-0.00029420844186116567
+10_Xgboost_categorical_mix_GoldenFeatures_prediction,-0.0002842487584741704
+설치개수,-0.00023231441762869843
+시군구,-0.00023195120613639375
+군_달서구,-0.00017978148081412292
+14_LightGBM_GoldenFeatures_SelectedFeatures_prediction,-0.0001761619341837495
+68_LightGBM_GoldenFeatures_prediction,-0.00014762625682069875
+사고유형_차량단독,-0.00013968016910452795
+70_CatBoost_prediction,-0.00012981742284594587
+59_RandomForest_prediction,-0.00012877694153079489
+군_서구,-9.852370692278178e-05
+season_여름,-7.151229145558879e-05
+48_LightGBM_GoldenFeatures_prediction,-4.943787579589909e-05
+36_RandomForest_prediction,-4.601985514769424e-05
+보호구역,-3.3823787311559884e-05
+49_LightGBM_prediction,-3.315030764490245e-05
+어린이보호구역개수,-3.111662779571311e-05
+holiday,-1.0383422764714822e-06
+도로형태_교차로 - 교차로부근,0.0
+기상상태_흐림,0.0
+기상상태_안개,0.0
+기상상태_비,0.0
+기상상태_맑음,0.0
+기상상태_기타,0.0
+도로형태_기타 - 기타,0.0
+요일_토요일,0.0
+요일_일요일,0.0
+요일_월요일,0.0
+요일_수요일,0.0
+요일_금요일,0.0
+기상상태_눈,0.0
+도로형태_단일로 - 교량,0.0
+도로형태_단일로 - 기타,0.0
+도로형태_단일로 - 지하차도(도로)내,0.0
+season_겨울,0.0
+season_가을,0.0
+군_달성군,0.0
+사고유형_차대차,0.0
+사고유형_차대사람,0.0
+노면상태_침수,0.0
+군_동구,0.0
+노면상태_젖음/습기,0.0
+노면상태_서리/결빙,0.0
+노면상태_기타,0.0
+노면상태_건조,0.0
+도로형태_주차장 - 주차장,0.0
+도로형태_미분류 - 미분류,0.0
+도로형태_단일로 - 터널,0.0
+노면상태_적설,0.0
+weekday,0.0
+군_남구,0.0
+차량전용,0.0
+군_중구,0.0
+군_수성구,0.0
+불법주정차,0.0
+군_북구,1.2488886705463997e-05
+구,2.5708820385128563e-05
+평지도로,4.401704073599966e-05
+도로형태_교차로 - 교차로안,8.843206987450004e-05
+요일_화요일,0.00010510425275169765
+도로형태_단일로 - 고가도로위,0.00014137867336785347
+주차장개수,0.00022563481059298952
+55_RandomForest_prediction,0.00026725668847755736
+75_RandomForest_prediction,0.0002699474280619896
+58_RandomForest_prediction,0.00030188828736052995
+season_봄,0.0003450989077498079
+35_RandomForest_prediction,0.00041340501400823906
+사고발생횟수,0.0004312336377673365
+요일_목요일,0.0004532472519471753
+도로형태_교차로 - 교차로횡단보도내,0.0005009357015429927
+Cosine_Time,0.0006856054644008402
+66_Xgboost_prediction,0.0007024914417567806
+47_Xgboost_GoldenFeatures_prediction,0.0007974372813098097
+57_RandomForest_prediction,0.0007975052065936517
+64_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.0009526775500935169
+25_CatBoost_prediction,0.001077257731446668
+67_LightGBM_GoldenFeatures_SelectedFeatures_prediction,0.001094313247347678
+23_CatBoost_prediction,0.0013790181867179285
+72_CatBoost_prediction,0.0014429200831134637
+60_Xgboost_prediction,0.001460365007839437
+31_CatBoost_prediction,0.001894525617844911
+65_Xgboost_prediction,0.002127568697470572
+46_Xgboost_GoldenFeatures_prediction,0.0021521689578235304
+61_Xgboost_prediction,0.002587384666497927
+50_CatBoost_prediction,0.0030651380160718667
+14_LightGBM_GoldenFeatures_prediction,0.0035023917471284525
+40_RandomForest_prediction,0.0038487472615474695
+41_Xgboost_prediction,0.004128003077563047
+52_CatBoost_prediction,0.004938094900132128
+51_CatBoost_prediction,0.0054159538319499935
+56_RandomForest_prediction,0.0056088928083197764
+44_Xgboost_GoldenFeatures_prediction,0.00563642422309254
+Ensemble_prediction,0.0061829749998909556
+74_CatBoost_prediction,0.006411134402759399
